@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: related-giraffe-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/related-giraffe-go
